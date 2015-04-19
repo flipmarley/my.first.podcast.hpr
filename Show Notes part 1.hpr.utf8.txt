@@ -1,0 +1,31 @@
+[Created with command [[cat >> Show\ Notes\ part\ 1.hpr.utf8.txt]]]
+Hello HPR listeners and fellow podcasters,
+
+This is my first attempt at recording a podcast.
+
+I will have links.
+
+I will have Stories.
+
+The show will unfold in these files. Take the files. use the files. or burn them.
+
+A few things I want to do... I want this to be my "How I got into --linux-- H4ͻkÏnģ"
+
+                             I want this to be A RANT!
+
+                             I want this to spark a discussion on the potential for Free and Open Source Software, Hardware, and Life.
+                                                                                                                                  ^-> Open Source Universe
+
+<cat terminated with a Ctrl+D>
+[File opened in vim with [[vim Show[TAB]1[TAB] && wc -m Show[TAB]1[TAB]]]]
+
+I have to apologize. I used some strange characters above... if you have trouble parsing that, 
+"H4ͻkÏnģ" is "Hacking" or "hækɪŋ". One who does it is a hækɜr.
+
+	I love UTF-8 on the terminal.
+
+[This file has been slated for HEAVY EDITING]
+[Now it will be saved]
+[Later it will be opened again with vim. A fork will be created and will eventually have all of these comments removed.]
+[If you are reading this file, it was only left in for posterity. please see the final edit in "Show Notes part 1.final.hpr.utf8.txt"]
+
